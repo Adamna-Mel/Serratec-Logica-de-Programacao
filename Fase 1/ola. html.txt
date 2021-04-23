@@ -1,0 +1,21 @@
+<script>
+ document.write("Hello World<br>");
+ document.write("Bom dia<br>");
+ document.write("Bom dia<b>");
+ document.write("Bom dia<br>");
+ document.write("tudo certinho!<br>")
+
+</script>
+
+
+---
+ola.html
+Todos os arquivos
+
+
+Criar as pastas
+
+
+
+Olá Mundo!
+
